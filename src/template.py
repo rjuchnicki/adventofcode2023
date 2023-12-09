@@ -1,3 +1,5 @@
+import re
+
 from utils import read_input_for_day
 
 
@@ -13,7 +15,7 @@ def part1():
 
 def part2():
     output = ""
-    
+
     return output
 
 
