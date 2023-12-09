@@ -15,6 +15,7 @@ def num_ways_to_win(duration: int, distance: int):
             wins += 1
     return wins
 
+
 def part1():
     output = 1
     for i in range(len(times)):
